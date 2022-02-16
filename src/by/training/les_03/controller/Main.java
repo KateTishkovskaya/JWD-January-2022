@@ -15,7 +15,7 @@ public class Main {
         //task 1
         int number;
 
-        number = Input.scannerInput("Введите четырёхзнчное число:");
+        number = Input.scannerInput("Введите четырёхзначное число:");
         Logic.digitCheck(number);
 
         //task 3
