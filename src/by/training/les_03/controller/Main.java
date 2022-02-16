@@ -19,7 +19,7 @@ public class Main {
         Logic.digitCheck(number);
 
         //task 3
-        int lengthA;
+        int lengthA;//
         int lenghtB;
 
         lengthA = Input.scannerInput("\n\nВведите длину а:");
