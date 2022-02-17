@@ -16,6 +16,7 @@ public class Input {
      * @param str - сообщение выводимое пользователю
      * @return num
      */
+    @SuppressWarnings(value = "unchecked")
     public static int scannerInput(String str) {
         int num;
 
